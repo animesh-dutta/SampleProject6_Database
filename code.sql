@@ -10,8 +10,4 @@ File Name:code.sql
 Select * from  Users  /* getting all the fields results from Users tables */
 Select count (*) from Users /* Result Count */
 Update Users set Name="Animesh",familyName="Dutta" where employeeid=1 /* Updating two Fields in Users Table*/
-Delete from Users where employeeid=1500 /*Deleting one record from Database*/
-
-
-
-
+Delete from Users where employeeid=1500 /*Deleting one record from Database*/ ///
