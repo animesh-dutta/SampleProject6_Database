@@ -1,4 +1,4 @@
-/*       
+/*        
 Author:Animesh Dutta (Ananya Birla)
 File Description:It is a Sample SQL File.More Files will be added later On in the current Project Folder
 Caution:When you are writing any SQL Script,you should know in which Relational Database Management System(RDBMS),you are
